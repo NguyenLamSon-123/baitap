@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "Thông tin sinh viên": {
+            "Họ tên": "aaaa",
+            "MSSV": "k225480106076",
+            "Lớp": "sss",
+            "SĐT": "aaaaaaa",
+            "Ngày sinh": "aaaa",
+            "Địa chỉ hiện tại": "aaaa"
+        },
+        "Thông tin gia đình": {
+            "Địa chỉ gia đình": "aaaa",
+            "Họ tên bố": "aaaa",
+            "Họ tên mẹ": "aaaa"
+        }
+    }
+]
